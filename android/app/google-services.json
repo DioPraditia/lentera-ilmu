@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "231023139911",
+    "project_id": "lentera-ilmu",
+    "storage_bucket": "lentera-ilmu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231023139911:android:98b49a3b7580df1ac26562",
+        "android_client_info": {
+          "package_name": "id.app.lentera.ilmu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "231023139911-mgu9g7rqpn544l6dck9gd5f2e7fthbo3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYeyCVPCSzgH_sDkuBTrYuze2hZSpFCYo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "231023139911-mgu9g7rqpn544l6dck9gd5f2e7fthbo3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "231023139911-ausq3uoukof040j6aq546p8n98rv5rk2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "id.app.lentera.ilmu"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

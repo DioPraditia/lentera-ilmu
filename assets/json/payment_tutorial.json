@@ -1,0 +1,165 @@
+[
+    {
+        "channel": "Internet Banking",
+        "channel_bank": [
+            {
+                "name": "BRI Internet Banking",
+                "tutorial": [
+                    "Login ke akun BRI Internet Banking Anda",
+                    "Pilih menu Pembayaran",
+                    "Pilih menu BRIVA",
+                    "Pilih rekening Pembayar",
+                    "Masukkan Nomor Virtual Account yang ditampilkan pada Aplikasi Lentera Ilmu (Contoh 920013703001418)",
+                    "Masukkan Nominal yang sama dengan nominal pada Aplikasi Lentera Ilmu",
+                    "Lanjutkan langkah berikutnya sesuai yang tertera di BRI Internet Banking"
+                ]
+            },
+            {
+                "name": "BNI Internet Banking",
+                "tutorial": [
+                    "Login ke akun BNI iBank Personal Anda",
+                    "Pilih menu Transaksi",
+                    "Pilih menu Info dan Administrasi Transfer",
+                    "Pilih menu Atur Rekening Tujuan",
+                    "Pilih menu Tambah Rekening Tujuan",
+                    "Isi data rekening",
+                    "Masukkan Nominal yang sama dengan nominal pada Aplikasi Lentera Ilmu",
+                    "Lanjutkan langkah berikutnya sesuai yang tertera di BNI iBank Personal"
+                ]
+            },
+            {
+                "name": "Mandiri Internet",
+                "tutorial": [
+                    "Login ke akun Mandiri Internet Anda",
+                    "Pilih menu Pembayaran",
+                    "Pilih menu Multipayment",
+                    "Pilih No Rekening Anda",
+                    "Pilih Penyedia Jasa",
+                    "Pilih Xendit 88908",
+                    "Masukkan Nomor Virtual Account yang ditampilkan pada Aplikasi Lentera Ilmu (Contoh 889083703001418)",
+                    "Lanjutkan langkah berikutnya sesuai yang tertera di Mandiri Internet"
+                ]
+            },
+            {
+                "name": "PermataNet",
+                "tutorial": [
+                    "Login ke akun PermataNet Anda",
+                    "Pilih menu Pembayaran Tagihan",
+                    "Pilih menu Virtual Account",
+                    "Pilih Rekening",
+                    "Masukkan Nomor Virtual Account yang ditampilkan pada Aplikasi Lentera Ilmu (Contoh 889083703001418)",
+                    "Lanjutkan langkah berikutnya sesuai yang tertera di PermataNet"
+                ]
+            }
+        ]
+    },
+    {
+        "channel": "Mobile Banking",
+        "channel_bank": [
+            {
+                "name": "BRI Mobile",
+                "tutorial": [
+                    "Login ke akun BRI Mobile Anda",
+                    "Pilih menu Pembayaran",
+                    "Pilih menu BRIVA",
+                    "Masukkan Nomor Virtual Account yang ditampilkan pada Aplikasi Lentera Ilmu (Contoh 920013703001418)",
+                    "Masukkan Nominal yang sama dengan nominal pada Aplikasi Lentera Ilmu",
+                    "Lanjutkan langkah berikutnya sesuai yang tertera di Aplikasi BRI Mobile"
+                ]
+            },
+            {
+                "name": "BNI Mobile",
+                "tutorial": [
+                    "Login ke akun BNI Mobile Anda",
+                    "Pilih menu Transfer",
+                    "Pilih menu Virtual Account Billing",
+                    "Pilih Input Baru",
+                    "Masukkan Nomor Virtual Account yang ditampilkan pada Aplikasi Lentera Ilmu (Contoh 920013703001418)",
+                    "Masukkan Nominal yang sama dengan nominal pada Aplikasi Lentera Ilmu",
+                    "Lanjutkan langkah berikutnya sesuai yang tertera di Aplikasi BNI Mobile"
+                ]
+            },
+            {
+                "name": "Livin' Mandiri",
+                "tutorial": [
+                    "Login ke akun Livin' Mandiri Anda",
+                    "Pilih menu Pembayaran",
+                    "Pilih menu Pembayaran Baru",
+                    "Pilih menu Multipayment",
+                    "Pilih Penyedia Jasa atau Services Provider",
+                    "Pilih Xendit 88908",
+                    "Pilih No. Virtual",
+                    "Masukkan Nomor Virtual Account yang ditampilkan pada Aplikasi Lentera Ilmu (Contoh 920013703001418)",
+                    "Masukkan Nominal yang sama dengan nominal pada Aplikasi Lentera Ilmu",
+                    "Lanjutkan langkah berikutnya sesuai yang tertera di Aplikasi Livin' Mandiri"
+                ]
+            },
+            {
+                "name": "Permata Mobile X",
+                "tutorial": [
+                    "Login ke akun Permata Mobile X Anda",
+                    "Pilih menu Bayar Tagihan",
+                    "Pilih menu Virtual Account",
+                    "Masukkan Nomor Virtual Account yang ditampilkan pada Aplikasi Lentera Ilmu (Contoh 920013703001418)",
+                    "Masukkan Nominal yang sama dengan nominal pada Aplikasi Lentera Ilmu",
+                    "Lanjutkan langkah berikutnya sesuai yang tertera di Aplikasi Permata Mobile X"
+                ]
+            }
+        ]
+    },
+    {
+        "channel": "ATM",
+        "channel_bank": [
+            {
+                "name": "ATM BRI",
+                "tutorial": [
+                    "Masukkan kartu ATM dan PIN BRI Anda",
+                    "Pilih menu Lainnya",
+                    "Pilih menu Pembayaran",
+                    "Pilih menu BRIVA",
+                    "Pilih menu Virtual Account Billing",
+                    "Masukkan Nomor Virtual Account yang ditampilkan pada Aplikasi Lentera Ilmu (Contoh 920013703001418)",
+                    "Lanjutkan langkah berikutnya sesuai yang tertera di mesin ATM"
+                ]
+            },
+            {
+                "name": "ATM BNI",
+                "tutorial": [
+                    "Masukkan kartu ATM dan PIN BNI Anda",
+                    "Pilih menu Lainnya",
+                    "Pilih menu Transfer",
+                    "Pilih menu Transaksi Lainnya",
+                    "Pilih ke Rekening BNI",
+                    "Masukkan Nomor Virtual Account yang ditampilkan pada Aplikasi Lentera Ilmu (Contoh 920013703001418)",
+                    "Masukkan Nominal yang sama dengan nominal pada Aplikasi Lentera Ilmu",
+                    "Lanjutkan langkah berikutnya sesuai yang tertera di mesin ATM"
+                ]
+            },
+            {
+                "name": "ATM Mandiri",
+                "tutorial": [
+                    "Masukkan kartu ATM dan PIN Mandiri Anda",
+                    "Pilih menu Bayar/Beli",
+                    "Pilih menu Multi Payment",
+                    "Masukkan kode 88908",
+                    "Masukkan Nomor Virtual Account yang ditampilkan pada Aplikasi Lentera Ilmu (Contoh 920013703001418)",
+                    "Masukkan Nominal yang sama dengan nominal pada Aplikasi Lentera Ilmu",
+                    "Lanjutkan langkah berikutnya sesuai yang tertera di mesin ATM"
+                ]
+            },
+            {
+                "name": "ATM Permata",
+                "tutorial": [
+                    "Masukkan kartu ATM dan PIN Permata Anda",
+                    "Pilih menu Transaksi Lainnya",
+                    "Pilih menu Pembayaran",
+                    "Pilih menu Pembayaran Lainnya",
+                    "Pilih menu Virtual Account",
+                    "Masukkan Nomor Virtual Account yang ditampilkan pada Aplikasi Lentera Ilmu (Contoh 920013703001418)",
+                    "Masukkan Nominal yang sama dengan nominal pada Aplikasi Lentera Ilmu",
+                    "Lanjutkan langkah berikutnya sesuai yang tertera di mesin ATM"
+                ]
+            }
+        ]
+    }
+]
