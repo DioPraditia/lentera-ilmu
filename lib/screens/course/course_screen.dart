@@ -95,7 +95,7 @@ class _CourseScreen extends State<CourseScreen> {
                               image: DecorationImage(
                                 image: NetworkImage(
                                     lms.course.image ?? lms.course.thumbnail!),
-                                fit: BoxFit.cover,
+                                fit: BoxFit.fill,
                                 alignment: Alignment.topCenter,
                               ),
                             ),
@@ -200,6 +200,7 @@ class _CourseScreen extends State<CourseScreen> {
                                           )),
                                 );
                               },
+                              // ignore: avoid_unnecessary_containers
                               child: Container(
                                 child: Column(
                                   crossAxisAlignment: CrossAxisAlignment.start,

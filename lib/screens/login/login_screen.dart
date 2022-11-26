@@ -23,6 +23,7 @@ class LoginScreen extends StatelessWidget {
         theme: ThemeData(
           fontFamily: 'Roboto',
         ),
+        debugShowCheckedModeBanner: false,
         home: Scaffold(
           body: GetBuilder<LoginController>(builder: (login) {
             return SingleChildScrollView(

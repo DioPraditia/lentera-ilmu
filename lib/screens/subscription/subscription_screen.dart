@@ -254,7 +254,7 @@ class _SubscriptionScreen extends State<SubscriptionScreen> {
                                       ((3) <= 3 ? 3 : 3.3),
                                   child: Container(
                                     decoration: BoxDecoration(
-                                      color: Colors.teal.shade200,
+                                      color: Colors.red.shade200,
                                       borderRadius: const BorderRadius.all(
                                           Radius.circular(8)),
                                       boxShadow: const <BoxShadow>[
@@ -273,7 +273,7 @@ class _SubscriptionScreen extends State<SubscriptionScreen> {
                                           "${lms.subscription.subscription_prices![index].subscription_month} Bulan",
                                           style: const TextStyle(
                                             fontSize: 14,
-                                            color: Colors.black54,
+                                            color: Colors.white,
                                             fontWeight: FontWeight.w500,
                                           ),
                                           maxFontSize: 14,

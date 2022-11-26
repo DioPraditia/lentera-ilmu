@@ -53,7 +53,7 @@ class _ArticleScreen extends State<ArticleScreen> {
                   image: DecorationImage(
                     image: NetworkImage(
                         widget.article.image ?? widget.article.thumbnail),
-                    fit: BoxFit.cover,
+                    fit: BoxFit.fill,
                   ),
                 ),
               ),

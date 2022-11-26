@@ -39,7 +39,7 @@ List<SliderModel> getSlides() {
   SliderModel sliderModel = new SliderModel();
 
   //1
-  sliderModel.setDesc("Menaikan kapasitas diri dengan mentor yang tepat.");
+  sliderModel.setDesc("Meningkatkan value didalam diri dengan mentor yang tepat.");
   sliderModel.setTitle("Bertumbuh");
   sliderModel.setImageAssetPath("assets/img/welcome/welcome_1.png");
   slides.add(sliderModel);
@@ -48,7 +48,7 @@ List<SliderModel> getSlides() {
   sliderModel = new SliderModel();
 
   //2
-  sliderModel.setDesc("Membangun bisnis secara kolaboratif.");
+  sliderModel.setDesc("Membangun dan mengscale out bisnis secara kolaboratif.");
   sliderModel.setTitle("Berjejaring");
   sliderModel.setImageAssetPath("assets/img/welcome/welcome_2.png");
   slides.add(sliderModel);
@@ -57,7 +57,7 @@ List<SliderModel> getSlides() {
   sliderModel = new SliderModel();
 
   //3
-  sliderModel.setDesc("Sinergi untuk kekuatan ekonomi.");
+  sliderModel.setDesc("Sinergi untuk membangun kekuatan ekonomi yang baik.");
   sliderModel.setTitle("Berdaya");
   sliderModel.setImageAssetPath("assets/img/welcome/welcome_3.png");
   slides.add(sliderModel);

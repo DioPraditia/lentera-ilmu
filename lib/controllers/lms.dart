@@ -236,6 +236,4 @@ class LMSController extends GetxController {
     emptySearch = false;
     update();
   }
-
-  void getShowroom(int courseId) {}
 }

@@ -3,13 +3,12 @@ import 'dart:io';
 import 'package:flutter/material.dart';
 import 'package:curved_navigation_bar/curved_navigation_bar.dart';
 import 'package:flutter/services.dart';
-import 'package:lentera_ilmu/screens/Showroom/showroom_list_screen.dart';
+import 'package:lentera_ilmu/screens/Showroom/screen_showroom.dart';
+// ignore: unused_import
 import 'package:lentera_ilmu/screens/coming_soon_screen.dart';
 import 'package:lentera_ilmu/screens/home/home_screen.dart';
 import 'package:lentera_ilmu/screens/library/my_library_screen.dart';
-// import 'package:lentera_ilmu/screens/profile/profile_screen.dart';
-import 'package:flutter_svg/flutter_svg.dart';
-import 'package:animated_notch_bottom_bar/animated_notch_bottom_bar/animated_notch_bottom_bar.dart';
+import 'package:lentera_ilmu/screens/produk/screen_produk.dart';
 
 class BottomNavBar extends StatefulWidget {
   const BottomNavBar({Key? key}) : super(key: key);
@@ -26,8 +25,8 @@ class _BottomNavBarState extends State<BottomNavBar> {
   final List<Widget> _widgetOptions = <Widget>[
     const HomeScreen(),
     const MyLibraryScreen(),
-    const ComingSoonScreen(),
-    const ComingSoonScreen(),
+    const ScreenProduk(),
+    const ScreenShowroom(),
   ];
 
   Future<bool> backPressed() async {
